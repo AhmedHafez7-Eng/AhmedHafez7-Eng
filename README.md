@@ -6,7 +6,7 @@
    - LinkedIn: https://www.linkedin.com/in/ahmedhafez247/
    - Facebook: https://www.facebook.com/profile.php?id=100005116839262
    - Whatsapp: +201010495597
-   - Gmail: ahmed.hafez101112131415@gmail.com
+   - Gmail: ahmedhafezoffic@gmail.com
 
 <!---
 AhmedHafez7-Eng/AhmedHafez7-Eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
