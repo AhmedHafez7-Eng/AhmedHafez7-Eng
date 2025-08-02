@@ -36,7 +36,7 @@
 ---
 
 ### :man_technologist: About Me :
-## I am a Full-Stack PHP Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+## I am a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
