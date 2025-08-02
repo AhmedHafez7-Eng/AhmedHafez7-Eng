@@ -81,11 +81,40 @@
 
 ---
 
-### :fire: My Stats :
-
+<!--- ### :fire: My Stats : --->
+<!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedHafez7-Eng&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
+<!---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedHafez7-Eng&theme=dark&background=000000&cache_seconds=1800)](https://git.io/streak-stats)&nbsp;
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en&cache_seconds=1800&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+## 📊 My GitHub Stats
+
+### 🔥 Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmedHafez7-Eng&theme=dark&background=000000&cache_seconds=1800)](https://git.io/streak-stats)
+
+---
+
+### 📈 Overall GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark&show_icons=true&locale=en&cache_seconds=1800&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<!---
+### 🏆 Total Contributions This Year
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AhmedHafez7-Eng&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=vision-friendly-dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+--->
+### 📚 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHafez7-Eng&layout=compact&theme=vision-friendly-dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 
 <!---
